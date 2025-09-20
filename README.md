@@ -61,4 +61,4 @@ How to Explore This Project
 3.  **Contextualize the Findings:** The reports folder contains the original impact report that this analysis supports.
 
 4.  Conclusion
-This analysis quantitatively confirms the resounding success of the CHRISTAD Foundation's summer camp. The program effectively transformed students' perceptions of math, built tangible confidence, and was delivered by a highly praised teaching team. The insights generated—especially regarding difficult topics and learning preferences—provide a clear data-driven roadmap for making an already excellent program even more impactful next year.
+This analysis quantitatively confirms the resounding success of the CHRISTAD Foundation's summer camp. The program effectively transformed students' perceptions of math, built tangible confidence, and was delivered by a highly praised teaching team. The insights generated especially regarding difficult topics and learning preferences—provide a clear data-driven roadmap for making an already excellent program even more impactful next year.
