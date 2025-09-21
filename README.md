@@ -25,7 +25,7 @@ The data reveals the program was a significant success:
 | | |
 | :---: | :---: |
 | **Post-Camp Math Sentiment** | **Confidence in Math Problem-Solving** |
-| <img src="./Output/sentiment_analysis.png" width="400"> | <img src="./oOutput/confidence_levels.png" width="400"> |
+| <img src="./Output/sentiment_analysis.png" width="400"> | <img src="./Output/confidence_levels.png" width="400"> |
 
 ### What Worked & What Was Challenging
 | | |
@@ -53,7 +53,7 @@ How to Explore This Project
 
 **Note:** The original survey data is private to protect participant confidentiality and is not included in this repository. This project focuses on showcasing the analytical methodology and results.
 
-1.  **Review the Analysis Code:** Open notebooks to see the complete data processing pipeline, including:
+1.  **Review the Analysis Code:** Open Notebook/Complete to see the complete data processing pipeline, including:
     *   Data cleaning and standardization procedures.
     *   Logic for categorizing free-text responses.
     *   Code for generating the visualizations.
