@@ -25,13 +25,13 @@ The data reveals the program was a significant success:
 | | |
 | :---: | :---: |
 | **Post-Camp Math Sentiment** | **Confidence in Math Problem-Solving** |
-| <img src="./outputs/sentiment_analysis.png" width="400"> | <img src="./outputs/confidence_levels.png" width="400"> |
+| <img src="./Output/sentiment_analysis.png" width="400"> | <img src="./oOutput/confidence_levels.png" width="400"> |
 
 ### What Worked & What Was Challenging
 | | |
 | :---: | :---: |
-| **Most Popular "Fun" Topics** | **Most Difficult Topics for Students** |
-| <img src="./outputs/topic_popularity.png" width="400"> | <img src="./outputs/difficult_topics.png" width="400"> |
+| **Most Popular Difficult Topics** | 
+| <img src="./Output/difficult_topics.png" width="400"> |
 
 *For more visualizations, see the complete set in the outputs folder.*
 
