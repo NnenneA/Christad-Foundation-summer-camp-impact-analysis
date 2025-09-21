@@ -4,7 +4,7 @@
 ## Project Overview
 This project analyzes the impact of a summer camp math program run by the CHRISTAD Foundation. The analysis is based on survey responses from 95 participants and aims to measure changes in student attitudes, confidence, and engagement with mathematics. The goal was to validate the program's success and identify areas for future improvement.
 
-The analysis complements the official report).
+The analysis complements the official report.
 
 **Note on Data Privacy:** The original survey data contains personally identifiable information (PII) and therefore **cannot be shared publicly**. This repository focuses on showcasing the analysis methodology, code, and visualized results.
 
@@ -17,7 +17,7 @@ The data reveals the program was a significant success:
 *   **Word of Mouth:** The camp achieved a **93.5%** recommendation rate.
 *   **Real-World Application:** **86%** of students used something they learned outside the classroom.
 
-*For a full list of insights, please view the omplete report.*
+*For a full list of insights, please view the Complete report.*
 
 ##  Dashboard of Findings
 
